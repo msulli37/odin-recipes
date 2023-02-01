@@ -4,3 +4,8 @@ h1 {
     color: forestgreen;
     text-shadow: 2px;
 }
+
+img {
+    width: 500px;
+    height: auto;
+}
