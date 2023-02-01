@@ -9,3 +9,9 @@ img {
     width: 500px;
     height: auto;
 }
+
+p {
+    color: black;
+    font-family: "Times New Roman", sans-serif;
+    background-color: beige;
+}
