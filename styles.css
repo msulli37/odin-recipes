@@ -14,4 +14,7 @@ p {
     color: black;
     font-family: "Times New Roman", sans-serif;
     background-color: beige;
+    text-indent: 50px;
+    margin-right: 400px;
+    margin-left: 50px;
 }
