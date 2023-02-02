@@ -30,3 +30,7 @@ p {
 button:hover {
     background-color: royalblue;
 }
+
+a:hover {
+    color:blueviolet
+}
