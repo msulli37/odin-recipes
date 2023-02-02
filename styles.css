@@ -2,8 +2,9 @@ h1 {
     text-align: center;
     background-color: bisque;
     color: forestgreen;
-    font-family: "Verdana", sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: 500;
+    letter-spacing: 5px;
 }
 
 img {
