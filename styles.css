@@ -9,6 +9,16 @@ li {
     margin: 10px auto;
 }
 
+ul, 
+ol {
+    padding: 10px;
+    padding-left: 25px;
+    background-color: beige;
+    border: 5px dashed rosybrown;
+    border-top-width: 5px;
+    width: fit-content;
+}
+
 img {
     width: 500px;
     height: auto;
