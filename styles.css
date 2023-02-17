@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
     background-color: lightgray;
-    color: white;
+    color: saddlebrown;
     font-family: sans-serif
 }
 
@@ -24,6 +24,7 @@ p {
 }
 
 .title {
+    color:white;
     padding-top: 15px;
     padding-bottom: 40px;
     text-shadow: -4px 4px #ef3550,
