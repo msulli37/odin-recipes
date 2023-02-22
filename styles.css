@@ -24,6 +24,11 @@ body {
     background-color: aquamarine;
 }
 
+.recipe-container {
+    display: flex;
+    justify-content: space-around;
+}
+
 li {
     margin: 10px auto;
 }
