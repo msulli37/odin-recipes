@@ -19,6 +19,11 @@ body {
     text-transform: uppercase;
 }
 
+.page {
+    margin: 0 5;
+    background-color: aquamarine;
+}
+
 li {
     margin: 10px auto;
 }
