@@ -27,6 +27,8 @@ body {
 .recipe-container {
     display: flex;
     justify-content: space-around;
+    width: 500px;
+    margin: 0 auto;
 }
 
 .recipe-item {
