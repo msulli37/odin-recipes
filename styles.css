@@ -51,6 +51,10 @@ ol {
     width: fit-content;
 }
 
+.ingredients-container {
+    display: flex;
+    justify-content: center;
+}
 img {
     width: 400px;
     height: auto;
