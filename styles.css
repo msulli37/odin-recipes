@@ -77,6 +77,11 @@ p {
     text-indent: 50px;
 }
 
+.first-paragraph {
+    margin-top: 0;
+    padding-top: 10px;
+}
+
 .index-return {
     margin-right: 50px;
     margin-left: 100px;
