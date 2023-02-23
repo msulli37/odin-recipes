@@ -50,8 +50,20 @@ ol {
 }
 
 img {
-    width: 500px;
+    width: 400px;
     height: auto;
+}
+
+.food-photo {
+    float:right;
+    padding-left: 10px;
+}
+
+.photo-description {
+    clear: both;
+    float: right;
+    width: 400px;
+    text-align: center;
 }
 
 p {
