@@ -64,6 +64,8 @@ img {
     float: right;
     width: 400px;
     text-align: center;
+    color:black;
+    font-size:x-small;
 }
 
 p {
