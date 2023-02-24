@@ -119,9 +119,9 @@ h2 {
 }
 
 .index-return {
-    margin-right: 50px;
-    margin-left: 100px;
+    display: block;
     background-color: aquamarine;
+    margin: 0 auto;
 }
 
 button:hover {
