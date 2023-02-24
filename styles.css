@@ -68,13 +68,10 @@ img {
 }
 
 .food-photo {
-    float:right;
     padding-left: 10px;
 }
 
 .photo-description {
-    clear: both;
-    float: right;
     width: 400px;
     text-align: center;
     color:black;
