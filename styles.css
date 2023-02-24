@@ -57,6 +57,15 @@ ol {
     justify-content: space-around;
 }
 
+.process-header {
+    display: flex;
+    margin-right: 25px;
+}
+
+.process-header h2 {
+    margin-right: auto;
+}
+
 .ingredients-container {
     display: flex;
     flex-direction: column;
@@ -131,4 +140,29 @@ button:hover {
 
 a:hover {
     color:blueviolet
+}
+
+.dot {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dot-chip {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 10px;
+}
+
+.dot-text {
+    text-align: center;
+}
+
+.short {
+    background-color: lightgreen;
 }
