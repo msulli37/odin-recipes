@@ -46,7 +46,7 @@ ol {
     padding: 10px;
     padding-left: 30px;
     margin: 20px;
-    background-color: beige;
+    background-color: blanchedalmond;
     border: 5px dashed rosybrown;
     width: fit-content;
 }
@@ -60,7 +60,14 @@ ol {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: bisque;
+}
+
+.ingredients-container ul {
+    margin: 20px 0;
+}
+
+.steps-list {
+    background-color: blanchedalmond;
 }
 
 img {
