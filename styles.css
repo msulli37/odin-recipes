@@ -51,6 +51,11 @@ ol {
     width: fit-content;
 }
 
+.process-container {
+    display: flex;
+    justify-content: space-around;
+}
+
 .ingredients-container {
     display: flex;
     flex-direction: column;
